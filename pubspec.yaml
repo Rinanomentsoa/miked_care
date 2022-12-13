@@ -49,6 +49,10 @@ dependencies:
   fluttertoast: ^8.1.1
   firebase_core: ^2.3.0
   email_validator: ^2.1.17
+  font_awesome_flutter: ^10.3.0
+  percent_indicator: ^4.2.2
+  expandable_text: ^2.3.0
+  flutter_rating_bar: ^4.0.1
 
 
 dev_dependencies:
@@ -83,6 +87,8 @@ flutter:
   assets:
      - assets/
      - assets/icons/
+     - assets/images/doctor_image.jpg
+     - assets/images/profile_image.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
